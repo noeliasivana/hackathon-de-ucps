@@ -23,26 +23,8 @@
     background: #ECECEC;
     transform: scale(1.2)
 }
-.sub-menu{
-	text-align: center;
-}
-.sub-menu li{
-	display: inline-block;
-	padding: 0 35px;
-}
-.sub-menu a{
-	display: block;
-	padding: 5px 20px;
-	color:#555555;
-	font-family: "Oswald", Arial, sans-serif;
-	font-weight: bold;
-	transition:all 0.5s;
-	border-radius: 20px;
-}
-.sub-menu a:hover{
-    text-decoration: none;
-    background: #ECECEC;
-    transform: scale(1.2)
+.btn-group{
+	margin-top: 20px;
 }
 .ing{
      width: 450px;
